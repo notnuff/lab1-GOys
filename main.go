@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"lab1-GOys/server"
+)
 
 func main() {
+	server.PrintHello()
 	fmt.Println("GOing crazy")
 }
