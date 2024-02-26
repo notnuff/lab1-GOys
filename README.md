@@ -1,4 +1,4 @@
 
 # lab1-GOys
 
-## initial commit bruh
+## honorable mention
