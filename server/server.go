@@ -1,18 +1,7 @@
 package server
 
-import (
-	"fmt"
-	"time"
-)
+import "fmt"
 
-func GetTime() {
-	currentTime := time.Now()
-	fmt.Println("time:", currentTime)
+func PrintHello() {
+	fmt.Println("Hello, Modules! This is mypackage speaking!")
 }
-
-const (
-	PORT  string = ":8795"
-	ROUTE string = "/time"
-)
-
-const WHADAFQ = "idk what i`m doing (just a joke)"
