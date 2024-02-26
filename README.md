@@ -5,6 +5,7 @@
 
 ### [colaborator](https://github.com/heereenveen)
 
-![image](https://github.com/notnuff/lab1-GOys/assets/113949291/4b9a380d-4999-4f20-885f-0d2fac6d9bcd)
+![image](https://github.com/notnuff/lab1-GOys/assets/113949291/877ef4b7-1eaf-4fc8-b09a-36985e01e334)
 
-##### honorable mention: Pes Patron, Polyak, Gigadyachok
+
+##### honorable mention: Pes Patron, Polyak, Gigadyachok, Kabachok, Sandwich Man
